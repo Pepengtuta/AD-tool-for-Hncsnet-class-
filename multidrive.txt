@@ -1,0 +1,19 @@
+# Teacher username
+$Teachers = @("kathleen")
+
+# Subject folders
+$SubjectFolders = @(
+    "C:\kathleen",
+    "C:\kathleen2",
+    "C:\kathleen3"
+)
+
+foreach ($folder in $SubjectFolders) {
+    # Create share (if doesn't exist)
+    $shareName = Split-Path $folder -Leaf
+    net share $shareName=$folder /grant:"asukalibo\kathleen,FULL" /unlimited
+    
+    Write-Host "Added kathleen to sharing: $shareName"
+}
+
+Write-Host "Done!"

@@ -1,0 +1,104 @@
+COURSE CODE,ABBREVIATION,FULL TITLE
+BAANAP1,aap,Analytics Application
+BAANTEC,att,Analytics Techniques and Tools
+BAFANAM,fam,Fundamentals of Analytics Modeling
+BAFBAN1,fba,Fundamentals of Business Analytics
+BAFEDM2,fed,Fundamentals of Enterprise Data Management
+CC101,inc,Introduction to Computing
+CC102,cp,Computer Programming 1
+CC103,cpp,Computer Programming 2
+CC104,dsa,Data Structures and Algorithms
+CC105,fdb,Fundamentals of Database System
+CC106,adt,Application Development and Emerging Technologies
+CE211,fnd,Foundations
+CE311,str,Structures
+CE312,geo,Geotechnical
+CEPRO,cap,Capstone Project
+CHEMEN,che,Chemistry Engineering
+COMP112,cf,Computer Fundamentals
+COMP113,ca,Computer Applications
+COMP211,cs,Computer Systems
+COMP311,ac,Advanced Computer
+COMP312,cc,Computer Capstone
+CT1,ctw,Current Trends in Web Technologies
+CT2,ctm,Current Trends in Multimedia Technologies
+CT3,cth,Current Trends in Hardware Technologies
+CT4,ctd,Current Trends in Database Technologies
+CT5,ctp,Current Trends in Programming Technologies
+CT6,its,IT Seminar
+DA301,ivp,Image and Video Processing
+DA302,mar,Modelling and Rigging
+DA303,lae,Lighting and Effects
+DA304,asp,Advanced Sound Production
+DA305,a2a,Advanced 2D Animation
+DA306,a3as,Advanced 3D Animation and Scripting
+DA307,tam,Texture and Mapping
+DA308,car,Compositing and Rendering
+DA309,adp,Animation Design and Production
+DM101,org,Organization and Management Concepts
+DM102,fin,Financial Management
+DM103,bpm,Business Process Management
+DM104,ebp,Evaluation of Business Performance
+EDUCVTED4,ev4,Educational Vocational 4
+EMATH5,mat,Engineering Mathematics
+EMC200,fdd,Freehand and Digital Drawing
+EMC201,igd,Introduction to Game Design and Development
+EMC202,cgp,Computer Graphics Programming
+EMC203,uhi,Usability, HCI and User Interaction Design
+EMC204,2da,Principles of 2D Animation
+EMC205,ads,Audio Design and Sound Engineering
+EMC206,sws,Script Writing and Storyboard Design
+EMC207,3da,Principles of 3D Animation
+EMC208,dpp,Design and Production Process
+EMCE501,afa,Acting for Animation
+EMCE502,pit,PC Installation and Troubleshooting
+EMCE503,cte,Current Trends in EMC
+ENSCI4,sci,Science & Engineering
+HC101,hci,Introduction to Human Computer Interaction
+HNBEPIT,bep,Basic Electronics with PC Installations and Troubleshooting
+HNCSNET,csn,Client-Server Networking
+HNDCACN,dcc,Data Communications and Computer Networks
+HNRSAWT,rst,Routing, Switching, and WAN Technologies
+HNWNWSE,wns,Wireless Networking with Security Essentials
+IAS101,ias,Information Assurance and Security 1
+IAS102,ias,Information Assurance and Security 2
+ICT401,lm,Law and Multimedia
+ICT402,phm,Photography in Multimedia
+ICT403,web,Web Development
+ICT404,pbp,Print and Broadcast Production
+ICT405,cst,Communication of Scientific and Technical Information
+ICT406,fvp,Film and Video Production
+IM101,ads,Advanced Database Systems
+IS101,fis,Fundamentals of Information Systems
+IS102,pii,Professional Issues in Information Systems
+IS103,itf,IT Infrastructure and Network Technologies
+IS104,sad,Systems Analysis and Design
+IS105,ent,Enterprise Architecture
+IS107,ism,IS Strategy Management and Acquisition
+ISASSSL,asl,Assessment of Student Learning
+ISEDPAT,ept,Educational Psychology and Technology
+ISPRITE,pri,Principles of Teaching with Intro to Instructional Systems Technology
+ISTEPRO,ttp,The Teaching Profession
+ISTWDEV,tdt,Teachware Development with Teacher and Classroom Observation
+MS101,dma,Discrete Mathematics
+MS102,qua,Quantitative Methods
+NET101,net,Networking 1
+NET102,net,Networking 2
+PF101,oop,Object Oriented Programming
+QUAMET,qua,Quantitative Methods
+SA101,sam,Systems Administration and Maintenance
+SEMFPTC,sem,SE and its Mathematical Foundations w/ Professional and Technical Communication
+SEREQTE,req,Requirements Engineering
+SESWARD,sad,Software Architecture and Design
+SESWPPM,spp,Software Project Planning and Management
+SETVVQA,tvq,Software Testing, Verification, Validation and Quality Assurance
+SIA101,sia,Systems Integration and Architecture 1
+SMBUSCO,bco,Business Communication
+SMFBPO1,fbp,Fundamentals of Business Processes Outsourcing 101
+SMFBPO2,fbp,Fundamentals of Business Processes Outsourcing 102
+SMSVCCU,svc,Service Culture
+SMSYSTH,sys,Principles of Systems Thinking
+SP101,spi,Social and Professional Issues
+TECHVOC1,tv1,Technical Vocational 1
+TECHVOC2,tv2,Technical Vocational 2
+TECHVOC6,tv6,Technical Vocational 6

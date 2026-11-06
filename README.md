@@ -5,7 +5,9 @@ This is a personal, web-based utility designed to automate the creation of Windo
 ## Features
 
 * **Hak Tab (Single Section):** Provide one baseline `dsadd` command and it will automatically generate a batch file for the entire section with incremented usernames (e.g., `user101`, `user102`).
+![image alt](screenshots/haktab.png)
 * **Dog Tab (Multi-Section):** Paste a list of baseline commands and user counts (e.g., `dsadd ... | 45`) to generate scripts for multiple sections simultaneously.
+![image alt](screenshots/dogtab.png)
 * **Automated Group Generation:** Automatically generates scripts to create Security Groups for each section and assigns the generated users to their respective groups.
 * **Network Drive Mapping:** Generates `mapping.bat` to automatically create section and user folders on a file server, apply correct NTFS permissions (using `icacls`), and map them as home drives in AD.
 * **Run-All Automation:** Generates a master `Run_all.bat` script that creates the OU structure and triggers all individual section scripts in the correct order.
