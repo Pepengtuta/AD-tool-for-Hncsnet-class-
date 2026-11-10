@@ -26,3 +26,32 @@ This tool is designed to run on a local PHP environment (like XAMPP) or a basic 
 
 ## Note
 This is a personal workflow tool tailored for a specific deployment environment. Folder structures, domain suffixes, and group hierarchies are hardcoded or specifically tailored to the expected input format.
+
+
+## Root folder sharing permission
+![image alt](screenshots/samples/RootfolderSharing.png)
+
+## Root folder NTFS permission
+![image alt](screenshots/samples/sectionNFTS.png)
+
+## Teacher Multi Drive
+![image alt](screenshots/samples/Teacher_MultiDrive.png)
+
+## 
+![image alt](screenshots/samples/Teacher_MultiDrive2.png)
+
+## Section NFTS
+![image alt](screenshots/samples/sectionNFTS.png)
+
+## student mapping
+![image alt](screenshots/samples/mapping.png)
+
+## student home folder path
+![image alt](screenshots/samples/homefolder.png)
+
+## Multi Teacher Drive
+![image alt](screenshots/samples/GPME.png)
+
+## Drop the file here
+" \\asukalibo.local\SysVol\asukalibo.local\Policies\{03494B3A-5C77-41FB-8BED-7934499F8FB7}\User\Scripts\Logon "
+![image alt](screenshots/samples/GPME2.png)
