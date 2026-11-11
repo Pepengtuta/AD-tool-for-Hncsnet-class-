@@ -1,12 +1,10 @@
 # Reference / sample / scratch — not used by the app at runtime
 asuserver/
 cat idea/
-mappingReference/
 Realdeal/
-sample/
 success/
 RULES.MD
 sample section.txt
 
 # Generated / sensitive section data
-all_sections/
+/all_sections/
